@@ -25,7 +25,7 @@ YipYip's default encryption module
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Rens Wijnmalen' => 'r.wijnmalen@yipyip.nl' }
-  s.source           = { :git => 'https://github.com/weareyipyip/YipYip-Swift-Encryption.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com/weareyipyip/YipYip-Swift-Encryption.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
